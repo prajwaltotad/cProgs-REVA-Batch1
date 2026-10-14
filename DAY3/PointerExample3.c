@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main() {
+    int a=10, b=10, c=30;
+    int *ptr[3] = {&a, &b, &c};
+    for (int i=0; i<3; i++) {
+        printf("%d ",*ptr[i]);
+    }
+}
