@@ -162,3 +162,9 @@ Every program is another opportunity to strengthen my fundamentals, develop logi
   <br/>
   <sub>Learn something new. Write some code. Repeat.</sub>
 </p>
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute the code in accordance with the license terms.
